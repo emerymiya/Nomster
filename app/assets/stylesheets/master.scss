@@ -36,7 +36,7 @@ body {
 .pagination {
   background: white;
   cursor: default;
-  height: 22px;
+  height: 32px;
   margin-top: 20px;
   margin-bottom: 20px;
   a, span, em {
@@ -51,14 +51,14 @@ body {
   .current {
     font-style: normal;
     font-weight: bold;
-    background: #2e6ab1;
+    background: #499EB8;
     color: white;
-    border: 1px solid #2e6ab1;
+    border: 1px solid #499EB8;
   }
   a {
     text-decoration: none;
-    color: #105cb6;
-    border: 1px solid #9aafe5;
+    color: #499EB8;
+    border: 1px solid #499EB8;
     &:hover, &:focus {
       color: #000033;
       border-color: #000033;
